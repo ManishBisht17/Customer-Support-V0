@@ -1,0 +1,10 @@
+cat > docs/faq/returns.txt << 'EOF'
+Q: What is your return policy?
+A: We accept returns within 30 days of delivery. Items must be unused and in original packaging.
+
+Q: How do I request a refund?
+A: Go to your order history, select the item, and click Request Refund. Refunds are processed within 5-7 business days.
+
+Q: Can I exchange an item?
+A: Yes, exchanges are free within 30 days. Contact support with your order number to start an exchange.
+EOF

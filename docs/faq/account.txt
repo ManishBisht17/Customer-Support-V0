@@ -1,0 +1,10 @@
+cat > docs/faq/account.txt << 'EOF'
+Q: How do I reset my password?
+A: Click Forgot Password on the login page and follow the email instructions.
+
+Q: How do I update my email address?
+A: Go to Account Settings, click Edit Profile, and update your email. A verification link will be sent.
+
+Q: How do I delete my account?
+A: Contact support to permanently delete your account and all associated data.
+EOF
